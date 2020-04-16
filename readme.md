@@ -91,6 +91,20 @@ inside a `planning/` directory inside your `backend` project repository.
 Planning and Process is one category by which we will be
 [evaluating your project](./evaluation.md).
 
+### Suggested Ways to Start
+
+- **Don’t hesitate to write throwaway code** to solve short-term problems.
+- **Read the docs for whatever technologies, frameworks, or APIs you use**.
+- **Write your code DRY** and **build your APIs RESTful**.
+- **Be consistent with your code style**. You're working in teams, but you're only making one app per team. Make sure it looks like a unified effort.
+- **Commit early, commit often**. Don’t be afraid to break something because you can always go back in time to a previous version.
+- **Keep user stories small and well-defined**. Remember – user stories focus on what a user needs, not what development tasks need accomplishing.
+- **Write code another developer wouldn't have to ask you about**. Do your naming conventions make sense? Would another developer be able to look at your app and understand what everything is?
+- **Make it all well-formatted**. Are you indenting, consistently? Can we find the start and end of every div, curly brace, etc.?
+- **Comment your code**. Will someone understand what is going on in each block or function? Even if it's obvious, explaining the what & why means someone else can pick it up and get it.
+- **Write pseudocode before you write actual code**. Thinking through the logic of something helps.
+
+
 ### Final Application
 
 Your project is due on the last day of Project Week. Create an issue on this repo containing:
@@ -103,17 +117,21 @@ The repository for your backend API should include:
 - A working JSON API (built by your team) built using Express and Mongoose that
   meets the technical requirements above.
 - Frequent commits dating back to the very beginning of the project.
-- A `planning/` directory in the root of your backend repo containing all project planning (e.g., wireframes, react architecture, route tables, user stories).
+- A `planning/` directory in the root of your backend repo that contains a `readme` qith all:
+    
+    - A couple of paragraphs about the **general approach you took**.
+    - Link to your **user stories** – who are your users, what do they want, and why?
+    - Link to your **React Architectures** - Diagrams of your React Architecture.
+    - Link to your **wireframes** – sketches of  views and interfaces in your application.
+    - Link to your **Time/Priority** matrix 
+    - Table including functionality and estimated/actual time for completion
+    - Descriptions of any **unsolved problems** or **hurdles** your team had to overcome.
 
 The repository for the frontend of your application should include:
 
 - A working frontend application (built by your team) built with React and React
   Router that meets the technical requirements above.
 - Frequent commits dating back to the very beginning of the project.
-- A `readme.md` file in the root of your repo that follows
-  [good standards of documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown)
-  (i.e. explanations of the technologies used, the approach taken, features,
-  installation instructions, unsolved problems, etc.)
 
 ## Asking For Help
 
