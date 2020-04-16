@@ -103,10 +103,6 @@ The repository for your backend API should include:
 - A working JSON API (built by your team) built using Express and Mongoose that
   meets the technical requirements above.
 - Frequent commits dating back to the very beginning of the project.
-- A `readme.md` file in the root of your repo that follows
-  [good standards of documentation - verify link](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown)
-  (i.e. explanations of the technologies used, the approach taken, features,
-  installation instructions, unsolved problems, etc.)
 - A `planning/` directory in the root of your backend repo containing all project planning (e.g., wireframes, react architecture, route tables, user stories).
 
 The repository for the frontend of your application should include:
