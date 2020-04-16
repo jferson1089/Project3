@@ -61,21 +61,8 @@ be graded.
 
 ### Bonus Requirements
 
-You should only attempt these bonuses if and only if you've satisfied the base
+You should only attempt bonuses if and only if you've satisfied the base
 technical requirements for this project.
-
-
-#### Maps
-
-If your application uses physical locations, consider adding a map **_as a bonus
-feature_** to your application.
-[Check out this Google Maps component library](https://tomchentw.github.io/react-google-maps/).
-
-#### User Authorization
-
-Consider whether or not you want to introduce a barrier to entry for your
-application. Does it fit in with the idea of your application? User
-authorization is tricky.  
 
 ## Submission
 
