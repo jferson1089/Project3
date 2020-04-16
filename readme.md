@@ -149,7 +149,7 @@ black market for tokens.
 You should split your application into separate repositories, one for your React
 front-end and another for your Node-Express-Mongoose backend API.
 
-[See deploying to Heroku with MongoDB Atlas here - update link](https://git.generalassemb.ly/SEIR-224/express-mongo-heroku-deploy).
+[See deploying to Heroku with MongoDB Atlas](https://git.generalassemb.ly/SEIR-224/express-mongo-heroku-deploy).
 
 ## Contribution Guidelines
 
