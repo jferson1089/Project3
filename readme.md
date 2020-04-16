@@ -26,6 +26,8 @@ employers eye and get you hired.
 
 ### Technical Requirements
 
+Two separate repo's are requied for this project, one for the `Back-End` and one for the `Front-End`. They must not reside on the same repo. 
+
 **Back-End Requirements:**
 
 - Your back-end must be a Node, Express, and Mongoose API with at least 2
@@ -68,6 +70,10 @@ technical requirements for this project.
 
 **_DO NOT FORK THIS REPOSITORY!_** Create a **new** repository. Then, submit
 your project as an issue to this repo.
+
+Issue should include:
+ - link to front end repo and front end deployment
+ - link to backend repo and backend deployment
 
 Your team must turn in something before presentations begin. However, you are
 welcome to continue working on it over the course of SEI and beyond!
