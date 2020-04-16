@@ -133,7 +133,7 @@ black market for tokens.
 You should split your application into separate repositories, one for your React
 front-end and another for your Node-Express-Mongoose backend API.
 
-[See deploying to Heroku with MongoDB Atlas here - update link]().
+[See deploying to Heroku with MongoDB Atlas here - update link](https://git.generalassemb.ly/SEIR-224/express-mongo-heroku-deploy).
 
 ## Contribution Guidelines
 
@@ -163,18 +163,13 @@ someone will want to use.
 > project is to build what you **and your teammates** want to build
 
 If you're struggling to come up with your own project ideas, checkout
-[r/startup_ideas](https://www.reddit.com/r/Startup_Ideas/) on reddit or
+[startup_ideas](https://www.reddit.com/r/Startup_Ideas/) on reddit or
 [requestforstartup.co](https://requestforstartup.co/).
 
 > TIP: The best projects tend to be MVP versions of popular applications with a
 > unique twist. If there's popular application that you use frequently (think
 > Twitter, Facebook, Instagram, Evernote, etc), think about how you could create
 > your own unique version of it.
-
-Once your team selects an idea, the group **must** choose a workflow from the
-[Git Teams & Workflow lesson - verify link](https://git.generalassemb.ly/ga-wdi-lessons/git-teams).
-Be prepared to share your team's plans with your assigned instructor at the
-first round of scrum.
 
 ## Tips
 
