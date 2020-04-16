@@ -88,8 +88,6 @@ By the end of Day 1 you need to submit:
 
 These and any other planning assets (wireframes, user stories, etc) should go
 inside a `planning/` directory inside your `backend` project repository.
-Planning and Process is one category by which we will be
-[evaluating your project](./evaluation.md).
 
 ### Suggested Ways to Start
 
