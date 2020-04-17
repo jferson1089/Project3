@@ -15,9 +15,13 @@ Front end will be using React while backend will be a Express, Mongo, and Mongoo
 
 ## Project Description
 
-React Architecture:
+React Architecture and WireFrame:
 
-WireFrame:
+https://www.figma.com/file/IiP3bWLkxpFsWnNoVXqZrO/Twitter-Clone?node-id=0%3A1
+
+Time Priority Matrix:
+
+https://docs.google.com/drawings/d/19SkMOCgP_dLDPa8-AsPx5pVYVNHjlwo34_3wy7WbFPI/edit
 
 
 
@@ -66,11 +70,15 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Creating Data Base | H | 10hrs | |
-| React Front End | H | 2hrs|  |  |
-| React Components| H | 2hrs | |
-| Communicate from Front to Backend | H | 5 hrs|  |  |
-| Total | H | 0 |  | |
+|Research| H | 4hrs|  | |
+| Creating Data Base | H | 4hrs | |
+| React Front End | H | 4hrs|  |  |
+| React Components| H | 4hrs | |
+| Logic for Components| H| 4hrs| | |
+| Deployment of Backend| H | 2 hrs|  | |
+| Deployment of Frontend| H | 1hr| | |
+| Communicate from Front to Backend | H | 4 hrs|  |  |
+| Total | H | 27hrs |  | |
 
 ## Additional Libraries
 ReactStrap/ BootStrap
