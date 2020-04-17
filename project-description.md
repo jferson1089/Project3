@@ -71,7 +71,6 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 |Research| H | 4hrs|  | |
-| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | Create back end file structure | H | .5 | |
 | Create models for User, Chirp, and Comment | H | 1 | |
 | Set up GET route & controller to return all Users | H | .5 | |
