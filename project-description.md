@@ -15,11 +15,11 @@ Front end will be using React while backend will be a Express, Mongo, and Mongoo
 
 ## Project Description
 
-React Architecture
+React Architecture:
 
-WireFrame
+WireFrame:
 
-See Code Snippet At Bottom for Backend Schema:
+
 
 ## Wireframes
 
@@ -44,7 +44,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 #### PostMVP 
 
 -Additional styling
--Possible Form Section?
+-
 
 
 ## Components
@@ -82,14 +82,5 @@ Using JSON data from JsonPlaceholder.com to start our database
 Use this section to include a brief code snippet of functionality that you are proud of an a brief description.  Code snippet should not be greater than 10 lines of code. 
 
 ```
-projectSchema =[
-User: {
-image: String,
-sn:String,
-pw: String },
-Tweet :{ User: String,
-body: String, 
-likes: Number,
-Comments: [CommentsSchema] },
-Comment { User: String, body: String, likes: Number }
+
 ```
