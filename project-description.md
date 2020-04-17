@@ -79,6 +79,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Deployment of Backend| H | 2 hrs|  | |
 | Deployment of Frontend| H | 1hr| | |
 | Communicate from Front to Backend | H | 4 hrs|  |  |
+| Responsive | H | 4 hours |  | |
 | Total | H | 27hrs |  | |
 
 ## Additional Libraries
