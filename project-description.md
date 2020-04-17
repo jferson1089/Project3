@@ -71,16 +71,16 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 |Research| H | 4hrs|  | |
-| Creating Data Base | H | 4hrs | |
+| Creating Data Base | H | 8hrs | |
 | Creating Schemas| H | 4 hrs | | |
-| React Front End | H | 4hrs|  |  |
-| React Components| H | 4hrs | |
-| Logic for Components| H| 4hrs| | |
+| React Front End Setup | H | 8hrs|  |  |
+| React Components Organization/Creation| H | 8hrs | |
+| Logic for Components| H| 8hrs| | |
 | Deployment of Backend| H | 2 hrs|  | |
 | Deployment of Frontend| H | 1hr| | |
 | Communicate from Front to Backend | H | 4 hrs|  |  |
 | Responsive | H | 4 hours |  | |
-| Total | H | 27hrs |  | |
+| Total | H | 49hrs |  | |
 
 ## Additional Libraries
 ReactStrap/ BootStrap
