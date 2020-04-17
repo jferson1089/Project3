@@ -38,17 +38,20 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 - Completeing and Deploying the Database
 - Front end React app
 - Allow user to interact with the page
--Favoriting Comments
--Mobile First
--Displaying Users
--Displaying Comments
--Creating new comments
+- Favoriting Comments
+- Mobile First
+- Displaying Users
+- Displaying Comments
+- Creating new comments
 
 
 #### PostMVP 
 
--Additional styling
--
+- Additional Styling
+- Admin Pages
+- Image Uploads
+
+
 
 
 ## Components
