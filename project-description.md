@@ -71,7 +71,6 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 |Research| H | 4hrs|  | |
-# Back end
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | Create back end file structure | H | .5 | |
 | Create models for User, Chirp, and Comment | H | 1 | |
@@ -85,8 +84,6 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Create helper file for front end | H | 1 | |
 | Debugging interaction with front end | H | 4 | |
 | Add additional functionality for postMVP goals | M | 4 | |
-| Total | H | 20 |  | |
-#Front End
 | React Front End Setup | H | 8hrs|  |  |
 | React Components Organization/Creation| H | 8hrs | |
 | Logic for Components| H| 8hrs| | |
@@ -94,7 +91,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Deployment of Frontend| H | 1hr| | |
 | Communicate from Front to Backend | H | 4 hrs|  |  |
 | Responsive | H | 4 hours |  | |
-| Total | H | 49hrs |  | |
+| Total | H | 60hrs |  | |
 
 ## Additional Libraries
 ReactStrap/ BootStrap
