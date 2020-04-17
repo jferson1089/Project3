@@ -5,7 +5,7 @@
 # Project Overview
 
 -We propose the creation of a full stack application, Twitter clone. Using a back end with full CRUD abilities from the front end to populate
-data that the user posts. Styled in moderb mobile first approach, then scaling up to the desktop applications. We would like our users to be able to post their content, and have others comment on the posts.
+data that the user posts. Styled in modern mobile first approach, then scaling up to the desktop applications. We would like our users to be able to post their content, and have others comment on the posts.
 Front end will be using React while backend will be a Express, Mongo, and Mongoose.
 
 ## Project Links
@@ -71,8 +71,22 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 |Research| H | 4hrs|  | |
-| Creating Data Base | H | 8hrs | |
-| Creating Schemas| H | 4 hrs | | |
+# Back end
+| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| Create back end file structure | H | .5 | |
+| Create models for User, Chirp, and Comment | H | 1 | |
+| Set up GET route & controller to return all Users | H | .5 | |
+| Set up connections for local testing, test with Postman | H | 1 | |
+| Set up & test additional GET/POST/PUT/DELETE routes & controllers for User | H | 2 | |
+| Set up & test GET/POST/PUT/DELETE routes & controllers for Chirp | H | 2 | |
+| Set up & test GET/POST/PUT/DELETE routes & controllers for Comment | H | 2 | |
+| Configure for deployment on Heroku | H | 1 | |
+| Set up MongoDB Atlas server & and deploy db on Heroku | H | 1 | |
+| Create helper file for front end | H | 1 | |
+| Debugging interaction with front end | H | 4 | |
+| Add additional functionality for postMVP goals | M | 4 | |
+| Total | H | 20 |  | |
+#Front End
 | React Front End Setup | H | 8hrs|  |  |
 | React Components Organization/Creation| H | 8hrs | |
 | Logic for Components| H| 8hrs| | |
