@@ -72,6 +72,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | --- | :---: |  :---: | :---: | :---: |
 |Research| H | 4hrs|  | |
 | Creating Data Base | H | 4hrs | |
+| Creating Schemas| H | 4 hrs | | |
 | React Front End | H | 4hrs|  |  |
 | React Components| H | 4hrs | |
 | Logic for Components| H| 4hrs| | |
