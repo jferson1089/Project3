@@ -10,23 +10,20 @@ Front end will be using React while backend will be a Express, Mongo, and Mongoo
 
 ## Project Links
 
-- [https://github.com/jferson1089/Project3/]()
+- [https://github.com/jferson1089/Project3/](Front End)
 - [add your deployment link]()
 
 ## Project Description
 
-React Friends is a Mobile Application that lets you randomly meet new people and favorite your new friends, from all around the World.
+React Architecture
+
+WireFrame
+
+See Code Snippet At Bottom for Backend Schema:
 
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
-
-React Architecture
-- [https://docs.google.com/drawings/d/1Nq3bsfNenszcLFm26oRBppGcT9zuhEJadzLIFC7lJNo/edit?usp=sharing]()
-WireFrame-
-- [https://docs.google.com/drawings/d/1YFWB2iq-qtMTws_zr0wpzUxSuu8TGxBK7TgNx3LE1ic/edit?usp=sharing]
-Time Priority Matrix-
--https://docs.google.com/drawings/d/1NQeLwiNTL1F5ygiwYDNCkk5fLnQ4q1IxhnZ6Oa1oXd0/edit?usp=sharing
 
 
 ### MVP/PostMVP - 5min
@@ -58,8 +55,8 @@ Based on the initial logic defined in the previous sections try and breakdown th
 | Component | Description | 
 | --- | :---: |  
 | App | This will make the initial data pull and include React Router| 
-| Home | Will include the main navigation of the page | 
-| Main | This is where users and favorites will render depending on the link | 
+| Main | Will include the main navigation of the page | 
+| Feed | This is where users and favorites will render depending on the link | 
 | Users| This will display a random amount of users|
 | Create | This will be the post section
 
