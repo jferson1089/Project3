@@ -7,12 +7,12 @@ function Create() {
         <>
             <Form>
                 <FormGroup>
-                    <Label for="exampleEmail">Email</Label>
-                    <Input type="email" name="email" id="exampleEmail" placeholder="with a placeholder" />
+                    <Label for="exampleEmail">Chirp Away</Label>
+                    <Input type="text" name="email" id="exampleEmail" placeholder="Name of Chirp" />
                 </FormGroup>
                 <FormGroup>
-                    <Label for="exampleText">Text Area</Label>
-                    <Input type="textarea" name="text" id="exampleText" />
+                    <Label for="exampleText"></Label>
+                    <Input type="textarea" name="text" id="exampleText" placeholder="Chirp Here" />
                 </FormGroup>
                 <Button color="warning">Chirp IT out</Button>{' '}
             </Form>

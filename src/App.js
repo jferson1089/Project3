@@ -8,7 +8,7 @@ function App() {
   return (
     <body>
       <Link to='/'>
-        App-Body
+        Click here for Chirp Feed
       </Link>
       <Feed />
     </body>

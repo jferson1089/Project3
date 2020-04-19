@@ -28,11 +28,55 @@ function Chirps() {
         <>
             <ul>
                 <li>Chirp</li>
+                <hr />
                 <li>Chirp</li>
+                <hr />
                 <li>Chirp</li>
+                <hr />
                 <li>Chirp</li>
+                <hr />
                 <li>Chirp</li>
+                <hr />
                 <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
+                <li>Chirp</li>
+                <hr />
             </ul>
         </>
     )
