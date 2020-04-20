@@ -47,7 +47,22 @@ section{
   height:650px;
 }
 
+li{
+  list-style:none;
+}
+
 nav{
   overflow:hidden;
   /* position:fixed; */
+}
+
+h4{
+  text-decoration:none;
+  
+}
+
+.cardButtons{
+  display:flex;
+  justify-content:space-around;
+  width: 100%;
 }

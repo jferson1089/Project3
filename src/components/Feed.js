@@ -25,7 +25,7 @@ function Feed() {
 
             <section>
 
-                <Route exact path='/' component={Chirps} />
+                <Route exact path='/feed' component={Chirps} />
                 <Route exact path='/create' component={Create} />
                 <Route exact path="/signup" component={Sign} />
                 <Route exact path='/users' component={Users} />
@@ -39,7 +39,7 @@ function Feed() {
             <nav>
                 <Navbar color="light" light expand="md">
                     <Link to='/create'>
-                        <NavbarBrand href="/chirps">Chirp Out</NavbarBrand>
+                        <NavbarBrand href="/create">Chirp Out</NavbarBrand>
                     </Link>
                     <NavbarBrand href="/users">Users</NavbarBrand>
                     <Link to='/signup'>

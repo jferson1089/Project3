@@ -1,82 +1,36 @@
 import React, { useState, useEffect, useReducer } from 'react'
+import { getAllChirps } from '../service/api-helper'
 
 
 
 function Chirps() {
 
-    // const [chirps, setChirps] = useState([])
+    const [chirps, setChirps] = useState([])
 
-    // useEffect(() => {
-    //     const makeAPICall = async () => {
-    //         const resp = await getAllChirps()
-    //         setChirps(resp)
-    //     }
-    //     makeAPICall()
-    // })
+    useEffect(() => {
+        const makeAPICall = async () => {
+            const resp = await getAllChirps()
+            setChirps(resp)
+            console.log('getallchirps', resp)
+        }
+        makeAPICall()
+    }, [])
 
-    // const renderChirps = chirps.map((chirp, index) => {
-    //     return (
-    //         <li key={index}>{chirp.name}>
-    //             <p>{chirp.title}</p>
-    //             <p>{chirp.post}</p>
-    //         </li>
-    //     )
-    // })
+    const renderChirps = chirps.map((chirp, index) => {
+        return (
+            <li key={index}>{chirp.username}
+                <p>{chirp.body}</p>
+                <p>{chirp.date}</p>
+            </li>
+        )
+    })
 
 
     return (
         <>
             <ul>
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
-                <li>Chirp</li>
-                <hr />
+                {renderChirps}
+
             </ul>
         </>
     )
