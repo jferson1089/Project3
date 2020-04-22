@@ -4,15 +4,13 @@
 
 # Project Overview
 
--We propose the creation of a full stack application, Twitter clone. Using a back end with full CRUD abilities from the front end to populate
-data that the user posts. Styled in modern mobile first approach, then scaling up to the desktop applications. We would like our users to be able to post their content, and have others comment on the posts.
-Front end will be using React while backend will be a Express, Mongo, and Mongoose.
+-We propose the creation of a full stack application, Twitter clone. Using a back end with full CRUD abilities  that will populate front end with data. Styled in modern mobile first approach, then scaling up to the desktop applications. We would like our users to be able to post their content. Front end will be using React while backend will be a Express, Mongo, and Mongoose.
 
 ## Project Links
 
-- [https://github.com/jferson1089/Project3/](Front End)
--https://github.com/adgreenie/chirper_backend (Backend)
-- [add your deployment link]()
+https://github.com/adgreenie/chirper-react(Front End)
+https://github.com/adgreenie/chirper_backend (Backend)
+
 
 ## Project Description
 
@@ -28,7 +26,7 @@ https://docs.google.com/drawings/d/19SkMOCgP_dLDPa8-AsPx5pVYVNHjlwo34_3wy7WbFPI/
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
+https://docs.google.com/drawings/d/1aXZuwEahwIJxlZ64BZlNaHR5ppL7RNES3SXHgBd_IYk/edit
 
 
 ### MVP/PostMVP - 5min
@@ -37,20 +35,23 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP 
 - Completeing and Deploying the Database
+- Testing Communication between Front and Backend
 - Front end React app
 - Allow user to interact with the page
-- Favoriting Comments
 - Mobile First
-- Displaying Users
+- Displaying User
 - Displaying Comments
-- Creating new comments
+- Creating New Posts
+- Getting All Posts
+- Deleting A Post
+- Updating A Post
 
 
 #### PostMVP 
 
 - Additional Styling
 - Admin Pages
-- Image Uploads
+- Favoriting Posts/Comments
 
 
 
@@ -65,8 +66,12 @@ Based on the initial logic defined in the previous sections try and breakdown th
 | App | This will make the initial data pull and include React Router| 
 | Main | Will include the main navigation of the page | 
 | Feed | This is where users and favorites will render depending on the link | 
-| Users| This will display a random amount of users|
-| Create | This will be the post section
+| User| This will display a random amount of users|
+| Chirp | This is an individual post |
+| ChirpForm | This is the form to POST a post |
+| Comment | This is the component that deals with comments |
+| Footer | Component with the bottom nav bar/ links |
+
 
 
 
