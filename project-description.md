@@ -39,7 +39,6 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 - Front end React app
 - Allow user to interact with the page
 - Mobile First
-- Displaying User
 - Displaying Comments
 - Creating New Posts
 - Getting All Posts
@@ -104,12 +103,26 @@ Time frames are also key in the development cycle.  You have limited time to cod
 ## Additional Libraries
 ReactStrap/ BootStrap
 Heroku
-Using JSON data from JsonPlaceholder.com to start our database
 
 ## Code Snippet
 
 Use this section to include a brief code snippet of functionality that you are proud of an a brief description.  Code snippet should not be greater than 10 lines of code. 
 
 ```
-
+ <Button id="Popover1" type="button">
+          <i className="fas fa-play">
+            <UncontrolledPopover
+              trigger="legacy"
+              placement="top"
+              isOpen={popoverOpen}
+              target="Popover1"
+              toggle={toggle}
+            >
+              <PopoverBody>
+                <ChirpForm />
+              </PopoverBody>
+            </UncontrolledPopover>
+          </i>
+        </Button>
 ```
+The code above combines ReactStrap components with our own Component for a Chirp form. By nesting the ChirpForm inside of this React Component it brings up a small seperate window inside the app to let the user Post without having to send them away to a different screen.
